@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Elliotichi
+- 👋 Hi, I’m Elliot
 - 👀 I’m interested in ... Software Design
 - 🌱 I’m currently learning ... stuff
 - 💞️ I’m looking to collaborate on ... Games
